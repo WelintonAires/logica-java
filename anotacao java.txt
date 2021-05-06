@@ -1,0 +1,7 @@
+	                        JAVA
+
+public static void main(String[] args) = METODO
+
+//  =comentario de linha (IDE ignora o assunto)
+
+*/  =compilado de multiplas linhas
