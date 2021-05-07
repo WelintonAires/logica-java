@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class IMC {
+public class imc {
 
     public static void main(String[] args) {
 
@@ -14,6 +14,8 @@ public class IMC {
         System.out.println("Digite sua altura");
         double altura = scanner.nextDouble();
 
-        double resultado = (peso) / (altura) * (altura);
+        double resultado = (peso) / (altura * altura);
+
+        System.out.println("O resuntado e " + resultado);
     }
 }
