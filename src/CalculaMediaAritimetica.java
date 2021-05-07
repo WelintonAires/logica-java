@@ -15,7 +15,6 @@ Suponha um programa que solicita ao usuario dois numeros e depois mostra a media
 
  */
 
-
 import java.util.Scanner;
 
 public class CalculaMediaAritimetica {
