@@ -1,10 +1,11 @@
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class imc {
 
     public static void main(String[] args) {
-
+        Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
 
            System.out.println("Digite seu peso");
@@ -15,7 +16,7 @@ public class imc {
 
            double resultado = (peso) / (altura * altura);
 
-           System.out.println("O resuntado e " + resultado);
+           System.out.println("O resuntado e %.2f%n" + resultado);
 
     }
 }
