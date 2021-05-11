@@ -16,6 +16,6 @@ public class imc {
 
            double resultado = (peso) / (altura * altura);
 
-           System.out.printf("%.2f%n", resultado);
+           System.out.printf("o resultado e %.2f%n", resultado);
     }
 }
