@@ -28,6 +28,7 @@ public class TrabalhandoComTexto {
 
         System.out.println(valoresConcatenados);
 
+
         scanner.close();
     }
 
