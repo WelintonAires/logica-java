@@ -28,4 +28,4 @@ h = 5f;
 area = (b + B) / 2f * h;
 
 System.out.println(area);
-/*
+ */
