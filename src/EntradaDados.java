@@ -28,7 +28,7 @@ public class EntradaDados {
         String s1, s2, s3;
 
         x = scanner.nextInt();
-        // scanner.nextLine()
+        scanner.nextLine();
         s1 = scanner.nextLine();
         s2 = scanner.nextLine();
         s3 = scanner.nextLine();
