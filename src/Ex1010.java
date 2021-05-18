@@ -15,7 +15,6 @@ public class Ex1010 {
 
     double valorTotal = peca1 * valor1 + peca2 * valor2;
 
-
    System.out.printf("VALOR A PAGAR: R$" + "%.2f", valorTotal);
 
    scanner.close();
