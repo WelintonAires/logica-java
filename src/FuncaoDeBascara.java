@@ -1,4 +1,4 @@
-import java.util.Locale;
+/*import java.util.Locale;
 import java.util.Scanner;
 
 public class FuncaoDeBascara {
@@ -19,7 +19,9 @@ public class FuncaoDeBascara {
         System.out.println("Resultado do x 2 linha  " + x2);
 
         scanner.close();
-    }
+
 
     }
 }
+
+ */
