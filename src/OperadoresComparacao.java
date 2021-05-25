@@ -21,6 +21,15 @@ public class OperadoresComparacao {
         //DIFERENTE
         System.out.println(5 != 10);
 
+        System.out.println("-------------------------------------------------------------------------");
+        
+
+        int x = 5;
+        System.out.println(x > 0);    // true
+        System.out.println(x == 3);   // false
+        System.out.println(10 <= 30); //true
+        System.out.println(x != 2);   //true
+
 
     }
 
