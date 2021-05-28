@@ -28,8 +28,9 @@ public class CalculaNotaAlunos {
 
             if (notaFinal < 60.0) {
                 System.out.println("Reprovado ");
+            }else {
+                System.out.println("Aprovado ");
             }
-
             scanner.close();
         }
 
