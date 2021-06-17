@@ -26,8 +26,6 @@ public class TabuadaComFor {
      *                          9 x 140 = 1260
      *                          10 x 140 = 1400
      */
-    public class ExUri1078 {
-
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             int n = scanner.nextInt();
@@ -40,4 +38,4 @@ public class TabuadaComFor {
         }
     }
 
-}
+
